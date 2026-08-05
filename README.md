@@ -1,5 +1,12 @@
 # Amazon-Data-Analytics-Project-
 
+### Author
+
+#### Dhairya
+
+Aspiring Data Analyst | Python | Power BI | Data Visualization
+
+
 ### Overview
 
 This project is an end-to-end Data Analytics case study focused on analyzing Amazon sales data to uncover meaningful business insights, customer purchasing behavior, and revenue trends. The project demonstrates the complete data analytics workflow, from raw data preprocessing to interactive dashboard creation.
@@ -77,24 +84,6 @@ The dataset was cleaned using Python before analysis.
 6. Dynamic Visualizations
 7. Business Insights
 
-### Power BI Dashboard
-
-#### Dashboard 1 – Sales Performance Overview
-
-![Dashboard 1](Desktop\dashboard1.png)
-
----
-
-#### Dashboard 2 – Product & Regional Analysis
-
-![Dashboard 2](Desktop\dashboard2.png)
-
----
-
-#### Dashboard 3 – Customer & Regional Insights
-
-![Dashboard 3](Desktop\dashboard3.png)
-
 ### Some key insights derived from the analysis include:
 
 1. Identified top-performing product categories contributing the highest revenue.
@@ -146,9 +135,3 @@ Amazon-Data-Analytics-Project/
 5. Communicating analytical findings effectively
 6. Future Improvements
 9. Deploy the dashboard using Power BI Service.
-
-### Author
-
-#### Dhairya
-
-Aspiring Data Analyst | Python | Power BI | Data Visualization
