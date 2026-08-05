@@ -77,7 +77,23 @@ The dataset was cleaned using Python before analysis.
 6. Dynamic Visualizations
 7. Business Insights
 
+### Power BI Dashboard
 
+## Dashboard 1 – Sales Performance Overview
+
+![Dashboard 1](images/Screenshot 2026-08-03 204018.png)
+
+---
+
+## Dashboard 2 – Product & Regional Analysis
+
+![Dashboard 2](images/Screenshot 2026-08-03 204141.png)
+
+---
+
+## Dashboard 3 – Customer & Regional Insights
+
+![Dashboard 3](images/Screenshot 2026-08-03 204101.png)
 
 ### Some key insights derived from the analysis include:
 
