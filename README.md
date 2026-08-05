@@ -93,25 +93,6 @@ The dataset was cleaned using Python before analysis.
 5. Evaluated order distribution and purchasing behavior.
 6. Recommended business strategies for improving sales performance.
 
-### Repository Structure
-Amazon-Data-Analytics-Project/
-│
-├── data/
-│   └── amazon_sales_dataset.csv
-│
-├── notebooks/
-│   └── amazon_clean.ipynb
-│
-├── dashboard/
-│   └── amazon_dashboard.pbix
-│
-├── images/
-│   ├── dashboard.png
-│   └── project_banner.png
-│
-├── README.md
-└── requirements.txt
-
 ### Skills Demonstrated
 1. Data Cleaning
 2. Data Wrangling
