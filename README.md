@@ -77,6 +77,8 @@ The dataset was cleaned using Python before analysis.
 6. Dynamic Visualizations
 7. Business Insights
 
+
+
 ### Some key insights derived from the analysis include:
 
 1. Identified top-performing product categories contributing the highest revenue.
@@ -85,7 +87,8 @@ The dataset was cleaned using Python before analysis.
 4. Highlighted high-performing products based on sales and profitability.
 5. Evaluated order distribution and purchasing behavior.
 6. Recommended business strategies for improving sales performance.
-Repository Structure
+
+### Repository Structure
 Amazon-Data-Analytics-Project/
 │
 ├── data/
@@ -132,4 +135,4 @@ Amazon-Data-Analytics-Project/
 
 #### Dhairya
 
-Aspiring Data Analyst | Python | SQL | Power BI | Data Visualization
+Aspiring Data Analyst | Python | Power BI | Data Visualization
