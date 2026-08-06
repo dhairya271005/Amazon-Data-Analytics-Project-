@@ -84,6 +84,24 @@ The dataset was cleaned using Python before analysis.
 6. Dynamic Visualizations
 7. Business Insights
 
+### Power BI Dashboard
+
+#### Dashboard 1 – Sales Performance Overview
+
+![Dashboard 1](Sales_Overview.png)
+
+---
+
+#### Dashboard 2 – Product & Category Analysis
+
+![Dashboard 2](Product_Analysis.png)
+
+---
+
+#### Dashboard 3 – Customer & Regional Insights
+
+![Dashboard 3](Customer_Insights.png)
+
 ### Some key insights derived from the analysis include:
 
 1. Identified top-performing product categories contributing the highest revenue.
