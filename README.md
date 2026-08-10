@@ -88,19 +88,19 @@ The dataset was cleaned using Python before analysis.
 
 #### Dashboard 1 – Sales Performance Overview
 
-![Dashboard 1](Sales_Overview.png)
+![Dashboard 1](image/Sales_Overview.png)
 
 ---
 
 #### Dashboard 2 – Product & Category Analysis
 
-![Dashboard 2](Product_Analysis.png)
+![Dashboard 2](image/Product_Analysis.png)
 
 ---
 
 #### Dashboard 3 – Customer & Regional Insights
 
-![Dashboard 3](Customer_Insights.png)
+![Dashboard 3](image/Customer_Insights.png)
 
 ### Some key insights derived from the analysis include:
 
